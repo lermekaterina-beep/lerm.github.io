@@ -1,0 +1,52 @@
+.catalog-page{
+  padding-bottom: 40px;
+}
+
+.catalog-layout{
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 28px;
+  
+}
+
+.main-area--catalog{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.catalog-heading{
+  margin-bottom: 24px;
+
+}
+p{
+  padding-bottom: 10px;
+}
+.catalog-subtitle{
+  font-size: clamp(18px, 2.4vw, 26px);
+  line-height: 1;
+  color: var(--accent);
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.catalog-section .offer-grid{
+  margin-bottom: 0;
+}
+
+.section_catalog-text-block{
+  margin-bottom: 45px;
+}
+
+
+@media (max-width: 1100px){
+  .catalog-layout{
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 500px){
+  .catalog-subtitle{
+    font-size: 24px;
+  }
+}

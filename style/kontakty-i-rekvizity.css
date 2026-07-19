@@ -1,0 +1,116 @@
+.dz-page {
+    padding-bottom: 40px;
+  }
+  
+  .dz-layout {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    
+  }
+  
+  .main-area--dz {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .dz-hero {
+
+    align-items: start;
+  }
+  p{
+    padding-bottom: 10px;
+  }
+  .dz-hero__eyebrow {
+    font-size: 16px;
+    line-height: 1.2;
+    color: #555;
+    
+  }
+  .hero__media{
+    margin-bottom: 20px;
+  }
+  .dz-hero__text {
+    max-width: 940px;
+  }
+  
+  .dz-hero__image {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .dz-hero__image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+  }
+  
+  .dz-grid {
+    margin-bottom: 0;
+  }
+  
+  .dz-grid .product-card__img {
+
+    border-radius: 8px;
+    padding: 0;
+    object-fit: cover;
+  }
+  
+  .dz-text {
+    max-width: 980px;
+  }
+  
+  @media (max-width: 1180px) {
+    .dz-layout {
+      grid-template-columns: 1fr;
+    }
+  
+    .dz-hero {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (max-width: 640px) {
+    .main-area--dz {
+      gap: 28px;
+    }
+  }
+
+  .contacts-map {
+  margin: 40px 0;
+}
+
+.map-wrapper {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.map-card {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  max-width: 250px;
+}
+
+.route-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 20px;
+  background: #ff6a00;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.route-btn:hover {
+  background: #e65c00;
+}
