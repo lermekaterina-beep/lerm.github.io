@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Автогрейдеры",
+    "text": "Каталог запасных частей, узлов и агрегатов для автогрейдеров российского производства",
+    "image": "/images/zapchasti-dlya-dorozhno-stroitelnoy-tekhniki-avtogrejder.png",
+    "alt": "Запчасти для автогрейдеров ДЗ, ГС и другой дорожно-строительной техники",
+    "url": "./catalog-avtogrejderov.html"
+  },
+  {
+    "title": "Фронтальные погрузчики",
+    "text": "Каталог запчастей для фронтальных погрузчиков — гидроцилиндры, ковши, стрелы и механизмы",
+    "image": "/images/zapchasti-dlya-frontalnyh-pogruzchikov-gidrocilindry-shesterni-kovsh.png",
+    "alt": "Запчасти для фронтальных погрузчиков — гидроцилиндры, ковш, стрела, коромысло и шестерни",
+    "url": "./frontalnye-pogruzchiki/"
+  },
+  {
+    "title": "Импортная техника",
+    "text": "Каталог запчастей импортного производства для спецтехники Komatsu, Caterpillar, XCMG, Shantui и т.д.",
+    "image": "/images/importnye-zapchasti-spectehnika.png",
+    "alt": "Импортные запчасти для спецтехники — автогрейдеры, фронтальные погрузчики, бульдозеры",
+    "url": "./import/"
+  },
+  {
+    "title": "Двигатели",
+    "text": "Каталог запчастей для дизельных двигателей спецтехники — коленвалы, поршни, блоки цилиндров",
+    "image": "/images/zapchasti-dizelnyh-dvigateley-spectehniki.png",
+    "alt": "Дизельные двигатели и запчасти к ним — коленвалы, поршни, блок двигателя и шестерни",
+    "url": "./dvigateli/"
+  },
+  {
+    "title": "МКП и ГМП",
+    "text": "Каталог коробок передач и комплектующих — МКП и ГМП для спецтехники",
+    "image": "/images/korobki-peredach-mkpp-gmp-zapchasti.png",
+    "alt": "МКП и ГМП для спецтехники",
+    "url": "./mkp-gmp.html"
+  },
+  {
+    "title": "Гидрораспределители",
+    "text": "Каталог гидрораспределителей и гидравлических компонентов для дорожно-строительной техники",
+    "image": "/images/gidroraspredeliteli-gidravlika-spectehniki.png",
+    "alt": "Гидрораспределители гидравлической системы спецтехники — секционные распределители и комплектующие",
+    "url": "./gidroraspredeliteli/"
+  },
+  {
+    "title": "Гидроцилиндры",
+    "text": "Гидроцилиндры и комплектующие гидравлической системы — каталог запчастей",
+    "image": "/images/gidrocilindry-i-komplektuyushchie-gidravliki-spectehniki.png",
+    "alt": "Гидроцилиндры для спецтехники — штоки, уплотнения и комплектующие гидравлики",
+    "url": "./gidrotsilindry/"
+  },
+  {
+    "title": "Бульдозеры",
+    "text": "Каталог запчастей для бульдозеров — траки, звездочки, редукторы и комплектующие",
+    "image": "/images/zapchasti-buldozera-traki-zvezdochki-reduktor-shesterni.png",
+    "alt": "Запчасти ходовой части бульдозеров — траки, звездочки, редукторы и шестерни",
+    "url": "./buldozery/"
+  },
+  {
+    "title": "Рециклеры",
+    "text": "Каталог запчастей для дорожных рециклеров и мобильных асфальтобетонных установок",
+    "image": "/images/asfaltovyj-recikler-pricepnoj-dlya-yamochnogo-remonta.png",
+    "alt": "Рециклер асфальта прицепной — оборудование для ямочного ремонта дорог",
+    "url": "./recikler/"
+  },
+  {
+    "title": "Расходные материалы",
+    "text": "Каталог ножей, техпластин, коммунальных щеток и коронок для отбойных молотков",
+    "image": "/images/nozhi-grejdera-tehplastiny-kommunalnye-shchetki-koronki.png",
+    "alt": "Запчасти для спецтехники — ножи грейдера, технические пластины, коммунальные щетки и коронки для отбойных аппаратов",
+    "url": "./raskhodniki/"
+  },
+  {
+    "title": "Коммунальная техника",
+    "text": "Каталог запчастей, узлов, гидравлики для коммунальной техники российского производства",
+    "image": "/images/kommunalnaya-tehnika-zapchasti-nasosy-shesterni.png",
+    "alt": "Запчасти для коммунальной техники — насосы, шестерни, гидравлическое оборудование и комплектующие",
+    "url": "./kommunalnaya-tekhnika/"
+  },
+  {
+    "title": "Быстросъемное оборудование",
+    "text": "Каталог быстросъемного навесного оборудования для фронтальных погрузчиков",
+    "image": "/images/bystrosemnoe-oborudovanie-kovsh-vily-zahvat-adapter.png",
+    "alt": "Быстросъемное оборудование для фронтальных погрузчиков — ковш, паллетные вилы, челюстной захват и адаптер",
+    "url": "./bystrosemnoe-oborudovanie/"
+  }
+]
